@@ -1,2 +1,6 @@
 # assembler_practice
-用組合語言對遊戲行為修改
+組合語言練習參考用
+# megaman x4
+關卡行為
+# zero 3
+背景音樂
